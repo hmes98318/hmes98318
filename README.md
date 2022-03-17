@@ -1,7 +1,7 @@
 ## Hi 👋, I'm hmes98318
 
 ### a Freshman from Taiwan  
-![](https://github-readme-stats.vercel.app/api?username=hmes98318&show_icons=true)  
+![](https://github-readme-stats.vercel.app/api?username=hmes98318&count_private=true&show_icons=true&hide=contribs)  
 ![](https://raw.githubusercontent.com/hmes98318/hmes98318/main/profile-summary-card-output/github/4-productive-time.svg)
 ![](https://raw.githubusercontent.com/hmes98318/hmes98318/main/profile-summary-card-output/github/1-repos-per-language.svg)  
 
