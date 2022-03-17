@@ -2,7 +2,7 @@
 
 ### a Freshman from Taiwan  
 ![](https://github-readme-stats.vercel.app/api?username=hmes98318&show_icons=true)  
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hmes98318&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hmes98318&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hmes98318&theme=github)  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hmes98318&theme=github)  
