@@ -2,7 +2,7 @@
 
 ### a second year Information Engineering student from Taiwan  
 
-### Skills  
+<br>
 <p>
   <a href="https://nodejs.org"> <img height="36" width="36" src="/icons/nodejs.svg" alt="nodejs" /> </a>
   <a href="https://www.typescriptlang.org"> <img height="36" width="36" src="/icons/typescript.svg" alt="nodejs" /> </a>
