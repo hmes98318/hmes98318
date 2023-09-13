@@ -1,6 +1,6 @@
 ## Hi 👋, I'm hmes98318
 
-### a second year Information Engineering student from Taiwan  
+### a third-year Information Engineering student from Taiwan  
 
 <br>
 <p>
