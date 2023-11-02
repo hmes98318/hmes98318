@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/hmes98318/hmes98318/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
