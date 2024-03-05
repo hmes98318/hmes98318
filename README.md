@@ -21,7 +21,11 @@
 ![](https://raw.githubusercontent.com/hmes98318/hmes98318/main/profile-summary-card-output/github/1-repos-per-language.svg)  
 ![](https://raw.githubusercontent.com/hmes98318/hmes98318/main/profile-summary-card-output/github/0-profile-details.svg)  
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/hmes98318/hmes98318/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hmes98318/hmes98318/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hmes98318/hmes98318/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hmes98318/hmes98318/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <br>
