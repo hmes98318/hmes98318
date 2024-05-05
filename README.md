@@ -1,6 +1,7 @@
 ## Hi 👋, I'm hmes98318
 
-### a third-year Information Engineering student from Taiwan  
+### 一個找不到實習的大三生  
+
 
 <br>
 <p>
