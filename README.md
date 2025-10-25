@@ -3,17 +3,17 @@
 ### 一天不寫 code，腦子會變鈍。  
 
 
-<br>
-<p>
-  <a href="https://nodejs.org"> <img height="36" width="36" src="/icons/nodejs.svg" alt="nodejs" /> </a>
-  <a href="https://www.typescriptlang.org"> <img height="36" width="36" src="/icons/typescript.svg" alt="nodejs" /> </a>
-  <a href="https://www.docker.com"> <img height="36" width="36" src="/icons/docker.svg" alt="docker" /> </a>
-  <a href="https://freebsd.org"> <img height="36" width="36" src="/icons/freebsd.svg" alt="freebsd" /> </a>
-  <a href="https://www.truenas.com"> <img height="36" width="36" src="/icons/truenas.svg" alt="truenas" /> </a>
-  <a href="https://rockylinux.org/"> <img height="36" width="36" src="/icons/rockylinux.svg" alt="rockylinux" /> </a>
-  <a href=""> <img height="36" width="36" src="/icons/linux.svg" alt="linux" /> </a>
-</p>
-<br>
+![node.js](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Nginx](https://img.shields.io/badge/-Nginx-43A047?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F48120?style=for-the-badge&logo=Cloudflare&logoColor=white)  
+![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![Proxmox_VE](https://img.shields.io/badge/-Proxmox_VE-DE6C00?style=for-the-badge&logo=proxmox&logoColor=white)
+![RockyLinux](https://img.shields.io/badge/-RockyLinux-10B981?style=for-the-badge&logo=rocky-linux&logoColor=white)
+![FortiGate](https://img.shields.io/badge/-FortiGate-EE2E24?style=for-the-badge&logo=fortinet&logoColor=white)  
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
